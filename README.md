@@ -20,4 +20,3 @@
 
 Кроме того, вы можете найти более подробный список функций синтаксиса Markdown по адресу:
 - [Полное руководство по синтаксису Markdown](https://www.markdownguide.org/extended-syntax/)
-- [Полное руководство по синтаксису Markdown](https://www.markdownguide.org/extended-syntax/)
